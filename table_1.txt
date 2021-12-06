@@ -1,0 +1,16 @@
+category_name	order_amount	date
+Digital Marketing	100	13.3.2020
+Writing and Translation	100	12.3.2020
+Business	        100    	14.3.2020
+Digital Marketing	100	15.4.2020
+Writing and Translation	100	15.5.2020
+Business	        100	15.5.2020
+Business	        100	15.5.2020
+Business         	100	15.5.2020
+Writing and Translation	100	15.3.2020
+Writing and Translation	100	15.4.2020
+Writing and Translation	100	15.4.2020
+Writing and Translation	100	16.3.2020
+Digital Marketing	100	15.4.2020
+Writing and Translation	100	15.4.2020
+Writing and Translation	100	17.3.2020
